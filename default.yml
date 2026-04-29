@@ -22,10 +22,12 @@ org_settings:
     #   • https://fleetdm.com/docs/configuration/yaml-files#org-info
     ###########################################################
     org_name: bk-fleety
+  fleet_desktop:
+    transparency_url: https://catoftheday.com
   webhook_settings:
     activities_webhook:
       enable_activities_webhook: true
-      destination_url: https://example.org/webhook_handler
+      destination_url: https://webhook.site/93cf1077-29fe-4ff9-b7a5-d864c95d1fb3
 
   server_settings:
     ###########################################################
